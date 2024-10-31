@@ -11,7 +11,7 @@ sudo apt install git  -y
 ----------------------------------
 
 # Installation
-Install Md5ISO-Verification
+Install linux-backup-app
 ```bash
 sudo git clone https://github.com/cektor/linux-backup-app.git
 ```
