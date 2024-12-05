@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # linux-backup-app
 Quick and Simple /home/.config Backup and Restore CLI Application Made with .SH Shell Script for Linux
 
